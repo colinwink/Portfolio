@@ -95,3 +95,8 @@ a:hover {
 .font-lg {
   font-size: 30px;
 }
+
+.smaller {
+  max-width: 20%;
+  margin-left: 250px;
+}
